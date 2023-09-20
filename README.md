@@ -25,3 +25,15 @@ If you are developing a production application, we recommend updating the config
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+
+  ## Project interface
+![image](https://github.com/VitorAlkindar/NLW-IA/assets/54691720/8e61ebdb-05e8-43c5-a12b-dc5b6e2542fc)
+
+## Tecnical details
+
+In the past week, the Rocketseat NLW event took place, with a special edition focused on Artificial Intelligence (AI). A project was developed using the OpenAI API, which involves uploading a video for the API to transcribe into text. Additionally, it generates coherent titles and descriptions based on the content of the uploaded video.
+
+For the front-end development, React.js, Tailwind.css, Shadcn for styled components, and Web Assembly were used. Web Assembly is a technology that allows us to run things on the web that are not traditionally web-based, among other technologies.
+
+On the back-end side, Node.js was employed, along with Fastify to handle API requests and routes, and Prisma as the database ORM, among other technologies.
+
